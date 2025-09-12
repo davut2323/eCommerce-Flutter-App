@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~   Webkul Software.
+  ~   @package Mobikul Application Code.
+  ~   @Category Mobikul
+  ~   @author Webkul <support@webkul.com>
+  ~   @Copyright (c) Webkul Software Private Limited (https://webkul.com)
+  ~   @license https://store.webkul.com/license.html
+  ~   @link https://store.webkul.com/license.html
+  -->
+
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/label_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#7fffffff"
+            android:gravity="start|center_vertical"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            tools:text="label" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/main_grey" />
+
+    </LinearLayout>
+
+</layout>
